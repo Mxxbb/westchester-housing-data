@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-05T03:04:05Z",
+  "generated_at": "2026-10-12T03:03:53Z",
   "towns": {
     "Ardsley": {
       "current": {
-        "listing_count": 14,
-        "median_price": 1017500.0,
-        "avg_price": 1174000.0,
+        "listing_count": 15,
+        "median_price": 950000.0,
+        "avg_price": 1145000.0,
         "min_price": 425000.0,
         "max_price": 2550000.0,
-        "median_ppsqft": 475.5,
-        "median_dom": 69.5
+        "median_ppsqft": 475.0,
+        "median_dom": 74.0
       },
       "history": [
         {
@@ -36,18 +36,23 @@
           "date": "2026-10-04",
           "median_price": 1017500.0,
           "listing_count": 14
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 950000.0,
+          "listing_count": 15
         }
       ]
     },
     "Bedford": {
       "current": {
-        "listing_count": 14,
-        "median_price": 2250000.0,
-        "avg_price": 2755278.5714285714,
+        "listing_count": 13,
+        "median_price": 2350000.0,
+        "avg_price": 2801838.4615384615,
         "min_price": 250000.0,
         "max_price": 8750000.0,
-        "median_ppsqft": 533.5,
-        "median_dom": 51.0
+        "median_ppsqft": 543.0,
+        "median_dom": 65.0
       },
       "history": [
         {
@@ -74,18 +79,23 @@
           "date": "2026-10-04",
           "median_price": 2250000.0,
           "listing_count": 14
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 2350000.0,
+          "listing_count": 13
         }
       ]
     },
     "Blind Brook-Rye": {
       "current": {
-        "listing_count": 26,
+        "listing_count": 24,
         "median_price": 887000.0,
-        "avg_price": 1185880.7692307692,
+        "avg_price": 1179579.1666666667,
         "min_price": 49900.0,
         "max_price": 2600000.0,
         "median_ppsqft": 516.0,
-        "median_dom": 41.5
+        "median_dom": 48.5
       },
       "history": [
         {
@@ -112,18 +122,23 @@
           "date": "2026-10-04",
           "median_price": 887000.0,
           "listing_count": 26
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 887000.0,
+          "listing_count": 24
         }
       ]
     },
     "Briarcliff Manor": {
       "current": {
         "listing_count": 30,
-        "median_price": 1419444.0,
-        "avg_price": 1814520.2666666666,
-        "min_price": 125000.0,
+        "median_price": 1481944.0,
+        "avg_price": 1898786.9333333333,
+        "min_price": 175000.0,
         "max_price": 9750000.0,
-        "median_ppsqft": 462.0,
-        "median_dom": 25.0
+        "median_ppsqft": 456.5,
+        "median_dom": 32.0
       },
       "history": [
         {
@@ -150,18 +165,23 @@
           "date": "2026-10-04",
           "median_price": 1419444.0,
           "listing_count": 30
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1481944.0,
+          "listing_count": 30
         }
       ]
     },
     "Bronxville": {
       "current": {
-        "listing_count": 106,
-        "median_price": 329000.0,
-        "avg_price": 784623.3113207547,
+        "listing_count": 104,
+        "median_price": 337000.0,
+        "avg_price": 782005.4903846154,
         "min_price": 149000.0,
         "max_price": 14000000.0,
-        "median_ppsqft": 341.0,
-        "median_dom": 84.5
+        "median_ppsqft": 342.5,
+        "median_dom": 84.0
       },
       "history": [
         {
@@ -188,18 +208,23 @@
           "date": "2026-10-04",
           "median_price": 329000.0,
           "listing_count": 106
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 337000.0,
+          "listing_count": 104
         }
       ]
     },
     "Byram Hills": {
       "current": {
-        "listing_count": 31,
-        "median_price": 1800000.0,
-        "avg_price": 2416483.870967742,
+        "listing_count": 32,
+        "median_price": 1927000.0,
+        "avg_price": 2397218.75,
         "min_price": 399000.0,
         "max_price": 6790000.0,
-        "median_ppsqft": 520.5,
-        "median_dom": 55.0
+        "median_ppsqft": 500.0,
+        "median_dom": 54.5
       },
       "history": [
         {
@@ -226,18 +251,23 @@
           "date": "2026-10-04",
           "median_price": 1800000.0,
           "listing_count": 31
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1927000.0,
+          "listing_count": 32
         }
       ]
     },
     "Chappaqua": {
       "current": {
-        "listing_count": 27,
-        "median_price": 1658995.0,
-        "avg_price": 1923036.8148148148,
-        "min_price": 649000.0,
+        "listing_count": 23,
+        "median_price": 1665000.0,
+        "avg_price": 2059086.7391304348,
+        "min_price": 749000.0,
         "max_price": 5750000.0,
-        "median_ppsqft": 495.5,
-        "median_dom": 32.0
+        "median_ppsqft": 525.0,
+        "median_dom": 34.0
       },
       "history": [
         {
@@ -264,18 +294,23 @@
           "date": "2026-10-04",
           "median_price": 1658995.0,
           "listing_count": 27
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1665000.0,
+          "listing_count": 23
         }
       ]
     },
     "Croton-Harmon": {
       "current": {
-        "listing_count": 40,
-        "median_price": 649949.5,
-        "avg_price": 813162.45,
+        "listing_count": 39,
+        "median_price": 599000.0,
+        "avg_price": 782369.2051282051,
         "min_price": 19900.0,
         "max_price": 4395000.0,
-        "median_ppsqft": 422.0,
-        "median_dom": 41.5
+        "median_ppsqft": 408.5,
+        "median_dom": 45.0
       },
       "history": [
         {
@@ -302,18 +337,23 @@
           "date": "2026-10-04",
           "median_price": 649949.5,
           "listing_count": 40
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 599000.0,
+          "listing_count": 39
         }
       ]
     },
     "Dobbs Ferry": {
       "current": {
         "listing_count": 45,
-        "median_price": 1150000.0,
-        "avg_price": 1301476.6666666667,
+        "median_price": 1069000.0,
+        "avg_price": 1289614.4444444445,
         "min_price": 274500.0,
         "max_price": 4995000.0,
-        "median_ppsqft": 516.0,
-        "median_dom": 38.0
+        "median_ppsqft": 538.0,
+        "median_dom": 41.0
       },
       "history": [
         {
@@ -340,18 +380,23 @@
           "date": "2026-10-04",
           "median_price": 1150000.0,
           "listing_count": 45
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1069000.0,
+          "listing_count": 45
         }
       ]
     },
     "Eastchester": {
       "current": {
-        "listing_count": 64,
-        "median_price": 479500.0,
-        "avg_price": 680248.671875,
-        "min_price": 159999.0,
-        "max_price": 2150000.0,
-        "median_ppsqft": 432.5,
-        "median_dom": 52.0
+        "listing_count": 61,
+        "median_price": 459000.0,
+        "avg_price": 612441.2295081967,
+        "min_price": 150000.0,
+        "max_price": 1899000.0,
+        "median_ppsqft": 416.0,
+        "median_dom": 59.0
       },
       "history": [
         {
@@ -378,18 +423,23 @@
           "date": "2026-10-04",
           "median_price": 479500.0,
           "listing_count": 64
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 459000.0,
+          "listing_count": 61
         }
       ]
     },
     "Edgemont": {
       "current": {
         "listing_count": 27,
-        "median_price": 989000.0,
-        "avg_price": 1262333.2592592593,
+        "median_price": 1050000.0,
+        "avg_price": 1289514.2962962964,
         "min_price": 149999.0,
         "max_price": 4995000.0,
-        "median_ppsqft": 435.0,
-        "median_dom": 76.0
+        "median_ppsqft": 438.0,
+        "median_dom": 66.0
       },
       "history": [
         {
@@ -416,18 +466,23 @@
           "date": "2026-10-04",
           "median_price": 989000.0,
           "listing_count": 27
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1050000.0,
+          "listing_count": 27
         }
       ]
     },
     "Elmsford": {
       "current": {
-        "listing_count": 11,
-        "median_price": 575500.0,
-        "avg_price": 526809.0,
+        "listing_count": 14,
+        "median_price": 674450.0,
+        "avg_price": 681707.0714285715,
         "min_price": 124000.0,
-        "max_price": 869000.0,
-        "median_ppsqft": 446.5,
-        "median_dom": 25.0
+        "max_price": 2200000.0,
+        "median_ppsqft": 445.0,
+        "median_dom": 18.0
       },
       "history": [
         {
@@ -454,18 +509,23 @@
           "date": "2026-10-04",
           "median_price": 575500.0,
           "listing_count": 11
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 674450.0,
+          "listing_count": 14
         }
       ]
     },
     "Greenburgh": {
       "current": {
-        "listing_count": 68,
-        "median_price": 397000.0,
-        "avg_price": 535730.4705882353,
+        "listing_count": 67,
+        "median_price": 439888.0,
+        "avg_price": 545330.9253731343,
         "min_price": 129000.0,
         "max_price": 2000000.0,
-        "median_ppsqft": 351.0,
-        "median_dom": 51.5
+        "median_ppsqft": 364.5,
+        "median_dom": 51.0
       },
       "history": [
         {
@@ -492,18 +552,23 @@
           "date": "2026-10-04",
           "median_price": 397000.0,
           "listing_count": 68
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 439888.0,
+          "listing_count": 67
         }
       ]
     },
     "Harrison": {
       "current": {
-        "listing_count": 72,
-        "median_price": 2085000.0,
-        "avg_price": 3270387.4444444445,
+        "listing_count": 66,
+        "median_price": 2197500.0,
+        "avg_price": 3390816.621212121,
         "min_price": 219000.0,
         "max_price": 28500000.0,
-        "median_ppsqft": 482.0,
-        "median_dom": 49.5
+        "median_ppsqft": 483.0,
+        "median_dom": 51.5
       },
       "history": [
         {
@@ -530,18 +595,23 @@
           "date": "2026-10-04",
           "median_price": 2085000.0,
           "listing_count": 72
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 2197500.0,
+          "listing_count": 66
         }
       ]
     },
     "Hastings-on-Hudson": {
       "current": {
         "listing_count": 23,
-        "median_price": 999000.0,
-        "avg_price": 1054634.5652173914,
+        "median_price": 995000.0,
+        "avg_price": 1027895.4347826086,
         "min_price": 190000.0,
         "max_price": 2547600.0,
         "median_ppsqft": 490.0,
-        "median_dom": 38.0
+        "median_dom": 40.0
       },
       "history": [
         {
@@ -568,18 +638,23 @@
           "date": "2026-10-04",
           "median_price": 999000.0,
           "listing_count": 23
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 995000.0,
+          "listing_count": 23
         }
       ]
     },
     "Hendrick Hudson": {
       "current": {
         "listing_count": 10,
-        "median_price": 674500.0,
-        "avg_price": 725095.0,
+        "median_price": 774000.0,
+        "avg_price": 740995.0,
         "min_price": 249000.0,
         "max_price": 1450000.0,
-        "median_ppsqft": 404.0,
-        "median_dom": 25.5
+        "median_ppsqft": 369.0,
+        "median_dom": 33.0
       },
       "history": [
         {
@@ -606,18 +681,23 @@
           "date": "2026-10-04",
           "median_price": 674500.0,
           "listing_count": 10
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 774000.0,
+          "listing_count": 10
         }
       ]
     },
     "Irvington": {
       "current": {
-        "listing_count": 26,
-        "median_price": 1572000.0,
-        "avg_price": 1912845.923076923,
+        "listing_count": 28,
+        "median_price": 1244500.0,
+        "avg_price": 1726142.8214285714,
         "min_price": 235000.0,
         "max_price": 9750000.0,
-        "median_ppsqft": 482.5,
-        "median_dom": 85.5
+        "median_ppsqft": 484.0,
+        "median_dom": 75.5
       },
       "history": [
         {
@@ -644,17 +724,22 @@
           "date": "2026-10-04",
           "median_price": 1572000.0,
           "listing_count": 26
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1244500.0,
+          "listing_count": 28
         }
       ]
     },
     "Katonah-Lewisboro": {
       "current": {
-        "listing_count": 24,
-        "median_price": 1174500.0,
-        "avg_price": 1761833.3333333333,
+        "listing_count": 25,
+        "median_price": 1275000.0,
+        "avg_price": 2373200.0,
         "min_price": 25000.0,
-        "max_price": 7950000.0,
-        "median_ppsqft": 477.0,
+        "max_price": 9995000.0,
+        "median_ppsqft": 497.0,
         "median_dom": 51.0
       },
       "history": [
@@ -682,18 +767,23 @@
           "date": "2026-10-04",
           "median_price": 1174500.0,
           "listing_count": 24
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1275000.0,
+          "listing_count": 25
         }
       ]
     },
     "Lakeland": {
       "current": {
-        "listing_count": 67,
-        "median_price": 689900.0,
-        "avg_price": 697579.3731343284,
+        "listing_count": 65,
+        "median_price": 682000.0,
+        "avg_price": 687829.5230769231,
         "min_price": 75000.0,
         "max_price": 1625000.0,
         "median_ppsqft": 339.0,
-        "median_dom": 41.0
+        "median_dom": 44.0
       },
       "history": [
         {
@@ -720,18 +810,23 @@
           "date": "2026-10-04",
           "median_price": 689900.0,
           "listing_count": 67
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 682000.0,
+          "listing_count": 65
         }
       ]
     },
     "Mamaroneck": {
       "current": {
-        "listing_count": 44,
-        "median_price": 754000.0,
-        "avg_price": 1342401.9772727273,
+        "listing_count": 45,
+        "median_price": 759000.0,
+        "avg_price": 1323728.5777777778,
         "min_price": 95000.0,
         "max_price": 15995000.0,
-        "median_ppsqft": 526.0,
-        "median_dom": 26.0
+        "median_ppsqft": 518.5,
+        "median_dom": 33.0
       },
       "history": [
         {
@@ -758,18 +853,23 @@
           "date": "2026-10-04",
           "median_price": 754000.0,
           "listing_count": 44
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 759000.0,
+          "listing_count": 45
         }
       ]
     },
     "Mount Pleasant": {
       "current": {
-        "listing_count": 13,
-        "median_price": 999900.0,
-        "avg_price": 1102976.8461538462,
+        "listing_count": 11,
+        "median_price": 985000.0,
+        "avg_price": 1095790.8181818181,
         "min_price": 299900.0,
         "max_price": 2600000.0,
-        "median_ppsqft": 416.0,
-        "median_dom": 123.0
+        "median_ppsqft": 430.0,
+        "median_dom": 75.0
       },
       "history": [
         {
@@ -796,6 +896,11 @@
           "date": "2026-10-04",
           "median_price": 999900.0,
           "listing_count": 13
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 985000.0,
+          "listing_count": 11
         }
       ]
     },
@@ -803,11 +908,11 @@
       "current": {
         "listing_count": 185,
         "median_price": 615000.0,
-        "avg_price": 594568.9405405405,
+        "avg_price": 603678.9135135135,
         "min_price": 82000.0,
         "max_price": 2200000.0,
-        "median_ppsqft": 244.5,
-        "median_dom": 80.0
+        "median_ppsqft": 250.5,
+        "median_dom": 83.0
       },
       "history": [
         {
@@ -834,18 +939,23 @@
           "date": "2026-10-04",
           "median_price": 615000.0,
           "listing_count": 185
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 615000.0,
+          "listing_count": 185
         }
       ]
     },
     "New Rochelle": {
       "current": {
-        "listing_count": 182,
-        "median_price": 607500.0,
-        "avg_price": 878356.4285714285,
-        "min_price": 95000.0,
+        "listing_count": 177,
+        "median_price": 615000.0,
+        "avg_price": 869632.6101694915,
+        "min_price": 124900.0,
         "max_price": 15995000.0,
         "median_ppsqft": 375.0,
-        "median_dom": 72.0
+        "median_dom": 64.0
       },
       "history": [
         {
@@ -872,18 +982,23 @@
           "date": "2026-10-04",
           "median_price": 607500.0,
           "listing_count": 182
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 615000.0,
+          "listing_count": 177
         }
       ]
     },
     "North Salem": {
       "current": {
-        "listing_count": 20,
-        "median_price": 1510000.0,
-        "avg_price": 2795650.0,
+        "listing_count": 21,
+        "median_price": 1525000.0,
+        "avg_price": 2719190.476190476,
         "min_price": 246000.0,
         "max_price": 12995000.0,
-        "median_ppsqft": 496.0,
-        "median_dom": 101.0
+        "median_ppsqft": 502.0,
+        "median_dom": 94.0
       },
       "history": [
         {
@@ -910,18 +1025,23 @@
           "date": "2026-10-04",
           "median_price": 1510000.0,
           "listing_count": 20
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1525000.0,
+          "listing_count": 21
         }
       ]
     },
     "Ossining": {
       "current": {
-        "listing_count": 74,
-        "median_price": 599111.0,
-        "avg_price": 735977.8783783783,
+        "listing_count": 75,
+        "median_price": 599000.0,
+        "avg_price": 706138.16,
         "min_price": 125000.0,
         "max_price": 3995000.0,
-        "median_ppsqft": 336.5,
-        "median_dom": 45.5
+        "median_ppsqft": 331.0,
+        "median_dom": 40.0
       },
       "history": [
         {
@@ -948,18 +1068,23 @@
           "date": "2026-10-04",
           "median_price": 599111.0,
           "listing_count": 74
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 599000.0,
+          "listing_count": 75
         }
       ]
     },
     "Peekskill": {
       "current": {
-        "listing_count": 79,
+        "listing_count": 81,
         "median_price": 495000.0,
-        "avg_price": 448352.08860759495,
+        "avg_price": 442833.81481481483,
         "min_price": 89000.0,
-        "max_price": 999999.0,
-        "median_ppsqft": 319.0,
-        "median_dom": 65.0
+        "max_price": 949000.0,
+        "median_ppsqft": 317.0,
+        "median_dom": 59.0
       },
       "history": [
         {
@@ -986,18 +1111,23 @@
           "date": "2026-10-04",
           "median_price": 495000.0,
           "listing_count": 79
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 495000.0,
+          "listing_count": 81
         }
       ]
     },
     "Pelham": {
       "current": {
-        "listing_count": 16,
-        "median_price": 822000.0,
-        "avg_price": 1090031.25,
+        "listing_count": 15,
+        "median_price": 799000.0,
+        "avg_price": 990766.6666666666,
         "min_price": 249000.0,
         "max_price": 3588000.0,
-        "median_ppsqft": 467.5,
-        "median_dom": 66.5
+        "median_ppsqft": 467.0,
+        "median_dom": 66.0
       },
       "history": [
         {
@@ -1024,18 +1154,23 @@
           "date": "2026-10-04",
           "median_price": 822000.0,
           "listing_count": 16
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 799000.0,
+          "listing_count": 15
         }
       ]
     },
     "Pleasantville": {
       "current": {
-        "listing_count": 19,
-        "median_price": 850000.0,
-        "avg_price": 1065736.7894736843,
+        "listing_count": 18,
+        "median_price": 874500.0,
+        "avg_price": 981888.7777777778,
         "min_price": 199000.0,
-        "max_price": 3350000.0,
-        "median_ppsqft": 464.0,
-        "median_dom": 23.0
+        "max_price": 2499999.0,
+        "median_ppsqft": 475.0,
+        "median_dom": 30.0
       },
       "history": [
         {
@@ -1062,18 +1197,23 @@
           "date": "2026-10-04",
           "median_price": 850000.0,
           "listing_count": 19
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 874500.0,
+          "listing_count": 18
         }
       ]
     },
     "Pocantico Hills": {
       "current": {
-        "listing_count": 27,
-        "median_price": 1550000.0,
-        "avg_price": 1680125.888888889,
+        "listing_count": 28,
+        "median_price": 1520000.0,
+        "avg_price": 1609407.0714285714,
         "min_price": 599900.0,
         "max_price": 3795000.0,
         "median_ppsqft": 711.0,
-        "median_dom": 117.0
+        "median_dom": 123.0
       },
       "history": [
         {
@@ -1100,18 +1240,23 @@
           "date": "2026-10-04",
           "median_price": 1550000.0,
           "listing_count": 27
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1520000.0,
+          "listing_count": 28
         }
       ]
     },
     "Port Chester-Rye": {
       "current": {
-        "listing_count": 54,
-        "median_price": 768000.0,
-        "avg_price": 741387.0185185185,
+        "listing_count": 53,
+        "median_price": 779000.0,
+        "avg_price": 789147.1509433963,
         "min_price": 75000.0,
         "max_price": 2995000.0,
-        "median_ppsqft": 397.0,
-        "median_dom": 55.5
+        "median_ppsqft": 399.0,
+        "median_dom": 59.0
       },
       "history": [
         {
@@ -1138,18 +1283,23 @@
           "date": "2026-10-04",
           "median_price": 768000.0,
           "listing_count": 54
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 779000.0,
+          "listing_count": 53
         }
       ]
     },
     "Rye City": {
       "current": {
         "listing_count": 44,
-        "median_price": 2672500.0,
-        "avg_price": 3212420.4545454546,
-        "min_price": 185000.0,
+        "median_price": 2622500.0,
+        "avg_price": 3234875.0,
+        "min_price": 299000.0,
         "max_price": 11000000.0,
         "median_ppsqft": 766.0,
-        "median_dom": 44.5
+        "median_dom": 46.5
       },
       "history": [
         {
@@ -1176,18 +1326,23 @@
           "date": "2026-10-04",
           "median_price": 2672500.0,
           "listing_count": 44
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 2622500.0,
+          "listing_count": 44
         }
       ]
     },
     "Rye Neck": {
       "current": {
-        "listing_count": 44,
-        "median_price": 754000.0,
-        "avg_price": 1342401.9772727273,
+        "listing_count": 45,
+        "median_price": 759000.0,
+        "avg_price": 1323728.5777777778,
         "min_price": 95000.0,
         "max_price": 15995000.0,
-        "median_ppsqft": 526.0,
-        "median_dom": 26.0
+        "median_ppsqft": 518.5,
+        "median_dom": 33.0
       },
       "history": [
         {
@@ -1214,18 +1369,23 @@
           "date": "2026-10-04",
           "median_price": 754000.0,
           "listing_count": 44
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 759000.0,
+          "listing_count": 45
         }
       ]
     },
     "Scarsdale": {
       "current": {
-        "listing_count": 99,
-        "median_price": 999000.0,
-        "avg_price": 1657611.0202020202,
+        "listing_count": 100,
+        "median_price": 979000.0,
+        "avg_price": 1652623.84,
         "min_price": 149999.0,
         "max_price": 10999000.0,
         "median_ppsqft": 491.0,
-        "median_dom": 53.0
+        "median_dom": 49.0
       },
       "history": [
         {
@@ -1252,18 +1412,23 @@
           "date": "2026-10-04",
           "median_price": 999000.0,
           "listing_count": 99
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 979000.0,
+          "listing_count": 100
         }
       ]
     },
     "Somers": {
       "current": {
-        "listing_count": 78,
-        "median_price": 692000.0,
-        "avg_price": 836839.5256410256,
+        "listing_count": 85,
+        "median_price": 729000.0,
+        "avg_price": 968593.9176470588,
         "min_price": 150000.0,
-        "max_price": 2300000.0,
+        "max_price": 9995000.0,
         "median_ppsqft": 411.0,
-        "median_dom": 55.0
+        "median_dom": 51.0
       },
       "history": [
         {
@@ -1290,18 +1455,23 @@
           "date": "2026-10-04",
           "median_price": 692000.0,
           "listing_count": 78
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 729000.0,
+          "listing_count": 85
         }
       ]
     },
     "Tarrytowns": {
       "current": {
-        "listing_count": 44,
+        "listing_count": 45,
         "median_price": 798800.0,
-        "avg_price": 1123713.6136363635,
+        "avg_price": 1127142.2,
         "min_price": 195000.0,
         "max_price": 3295000.0,
         "median_ppsqft": 520.0,
-        "median_dom": 52.0
+        "median_dom": 58.0
       },
       "history": [
         {
@@ -1328,18 +1498,23 @@
           "date": "2026-10-04",
           "median_price": 798800.0,
           "listing_count": 44
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 798800.0,
+          "listing_count": 45
         }
       ]
     },
     "Tuckahoe": {
       "current": {
-        "listing_count": 53,
-        "median_price": 3895000.0,
-        "avg_price": 5392537.735849056,
+        "listing_count": 50,
+        "median_price": 3935000.0,
+        "avg_price": 5381580.0,
         "min_price": 289000.0,
         "max_price": 49995000.0,
         "median_ppsqft": 922.0,
-        "median_dom": 108.0
+        "median_dom": 110.5
       },
       "history": [
         {
@@ -1366,18 +1541,23 @@
           "date": "2026-10-04",
           "median_price": 3895000.0,
           "listing_count": 53
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 3935000.0,
+          "listing_count": 50
         }
       ]
     },
     "Valhalla": {
       "current": {
-        "listing_count": 14,
-        "median_price": 1189000.0,
-        "avg_price": 1031214.1428571428,
+        "listing_count": 16,
+        "median_price": 1039000.0,
+        "avg_price": 1002187.375,
         "min_price": 515000.0,
         "max_price": 1355000.0,
-        "median_ppsqft": 415.0,
-        "median_dom": 22.5
+        "median_ppsqft": 443.0,
+        "median_dom": 26.5
       },
       "history": [
         {
@@ -1404,17 +1584,22 @@
           "date": "2026-10-04",
           "median_price": 1189000.0,
           "listing_count": 14
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 1039000.0,
+          "listing_count": 16
         }
       ]
     },
     "White Plains": {
       "current": {
-        "listing_count": 211,
-        "median_price": 509000.0,
-        "avg_price": 722039.2511848342,
+        "listing_count": 207,
+        "median_price": 519000.0,
+        "avg_price": 737322.618357488,
         "min_price": 65000.0,
-        "max_price": 4865000.0,
-        "median_ppsqft": 399.0,
+        "max_price": 4699000.0,
+        "median_ppsqft": 396.0,
         "median_dom": 64.0
       },
       "history": [
@@ -1442,18 +1627,23 @@
           "date": "2026-10-04",
           "median_price": 509000.0,
           "listing_count": 211
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 519000.0,
+          "listing_count": 207
         }
       ]
     },
     "Yonkers": {
       "current": {
-        "listing_count": 502,
+        "listing_count": 504,
         "median_price": 399000.0,
-        "avg_price": 548782.9442231075,
+        "avg_price": 546882.119047619,
         "min_price": 49000.0,
         "max_price": 3500000.0,
-        "median_ppsqft": 305.5,
-        "median_dom": 70.0
+        "median_ppsqft": 305.0,
+        "median_dom": 73.0
       },
       "history": [
         {
@@ -1480,18 +1670,23 @@
           "date": "2026-10-04",
           "median_price": 399000.0,
           "listing_count": 502
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 399000.0,
+          "listing_count": 504
         }
       ]
     },
     "Yorktown": {
       "current": {
-        "listing_count": 85,
-        "median_price": 739900.0,
-        "avg_price": 821868.1058823529,
+        "listing_count": 87,
+        "median_price": 729000.0,
+        "avg_price": 811125.1494252874,
         "min_price": 174000.0,
         "max_price": 2795000.0,
-        "median_ppsqft": 391.5,
-        "median_dom": 66.0
+        "median_ppsqft": 390.0,
+        "median_dom": 60.0
       },
       "history": [
         {
@@ -1518,6 +1713,11 @@
           "date": "2026-10-04",
           "median_price": 739900.0,
           "listing_count": 85
+        },
+        {
+          "date": "2026-10-11",
+          "median_price": 729000.0,
+          "listing_count": 87
         }
       ]
     }
